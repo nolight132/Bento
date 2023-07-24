@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Youtube',
 			icon: 'play-square',
-			link: 'https://twitter.com/',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '3',

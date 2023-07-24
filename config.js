@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'OpenStreetMap',
+			icon: 'map-pin',
+			link: 'https://www.openstreetmap.org',
 		},
 		{
 			id: '4',

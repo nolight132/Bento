@@ -11,9 +11,9 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Paul',
+	name: '',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Lemmy',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://lemm.ee/',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://odysee.com/',
 		},
 	],
 
@@ -98,8 +98,8 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
+			name: 'Youtube',
+			icon: 'play-square',
 			link: 'https://twitter.com/',
 		},
 		{
@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Unsplash',
+			icon: 'image',
+			link: 'https://unsplash.com/',
 		},
 		{
 			id: '6',

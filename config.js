@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Translate',
+			icon: 'languages',
+			link: 'https://www.reverso.net/text-translation',
 		},
 		{
 			id: '2',

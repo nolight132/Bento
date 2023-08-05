@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Translate',
 			icon: 'languages',
-			link: 'https://www.reverso.net/text-translation',
+			link: 'https://www.deepl.com/translator',
 		},
 		{
 			id: '2',

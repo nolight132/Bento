@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Classroom',
 			icon: 'backpack',
-			link: 'https://classroom.google.com/u/1//',
+			link: 'https://classroom.google.com/u/1/',
 		},
 	],
 

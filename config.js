@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Youtube',
 			icon: 'play-square',
-			link: 'https://youtube.com/',
+			link: 'https://piped.video/',
 		},
 		{
 			id: '3',
